@@ -21,4 +21,4 @@ To run a toaster, simply plug it in and pull down the lever
 If the toast is stuck in the toaster, you can bouce the lever up and down to try to bouce the toast out, or you can use a fork and play the most dangerous form of Operation based around toast
 
 ## Notice
-Please let me know if you use this, I'ts very entertaining to hear
+Please let me know if you use this, Its very entertaining to hear
