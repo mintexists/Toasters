@@ -1,4 +1,4 @@
-# Toastrs
+# Toasters
 
 ## About
 This is a collection of a large variety of toasters in a arbitrary yet numerical order
